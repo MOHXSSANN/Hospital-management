@@ -1,7 +1,6 @@
 # Project Title
 
-[![Language](https://img.shields.io/badge/Language-YourLanguageHere-blue.svg)](https://www.yourlanguage.org/)
-[![Framework](https://img.shields.io/badge/Framework-YourFrameworkHere-green.svg)](https://www.yourframework.org/)
+[![Language](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![License](https://img.shields.io/badge/License-YourLicenseHere-yellow.svg)](https://opensource.org/licenses/YourLicenseHere)
 
 Short description of your project.
